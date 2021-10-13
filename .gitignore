@@ -131,3 +131,6 @@ dmypy.json
 # Database
 
 .csv
+
+.DS_Store
+.gitignore
